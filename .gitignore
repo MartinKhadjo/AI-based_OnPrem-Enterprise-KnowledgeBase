@@ -1,0 +1,11 @@
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.exe
+*.msi
+.env
+*.key
+*.pem
+__pycache__/

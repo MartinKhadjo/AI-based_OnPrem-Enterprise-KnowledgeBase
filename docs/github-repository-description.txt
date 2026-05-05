@@ -1,0 +1,1 @@
+AI-based on-premises enterprise RAG knowledge base that turns internal documents into searchable, evidence-based answers. Combines OCR, partitioning, chunking, lexical/vector indexing, hybrid retrieval, reranking, chat persistence and local LLM generation for privacy-aware knowledge access.
